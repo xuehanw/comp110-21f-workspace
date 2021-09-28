@@ -8,4 +8,3 @@ print("Hi, tar heel, " + name + ", how are you?")
 print(name + ", you look nice today!")
 print("See you tomorrow, " + name)
 print("Have a good day!")
-
