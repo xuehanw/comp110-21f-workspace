@@ -21,3 +21,5 @@ def test_sum_many_items() -> None:
 
 def test_sum_many_items_again() -> None:
     assert sum([-1.0, 1.0, -2.0, 2.0]) == 0
+
+# comment
